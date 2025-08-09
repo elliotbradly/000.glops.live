@@ -5,22 +5,22 @@
   <!-- Platform Symbol -->
   <g transform="translate(40, 30)">
     <!-- Base Platform -->
-    <rect x="-15" y="5" width="30" height="5" rx="2" fill="#0070F3" />
+    <rect x="-15" y="5" width="30" height="5" rx="2" fill="#FFD1C1" />
     
     <!-- Columns -->
-    <rect x="-12" y="-10" width="4" height="15" rx="1" fill="#0070F3" />
-    <rect x="8" y="-10" width="4" height="15" rx="1" fill="#0070F3" />
+    <rect x="-12" y="-10" width="4" height="15" rx="1" fill="#FFD1C1" />
+    <rect x="8" y="-10" width="4" height="15" rx="1" fill="#FFD1C1" />
     
     <!-- Top -->
-    <rect x="-15" y="-15" width="30" height="5" rx="2" fill="#0070F3" />
+    <rect x="-15" y="-15" width="30" height="5" rx="2" fill="#FFD1C1" />
     
     <!-- X Element -->
-    <path d="M-2,-5 L2,5 M-2,5 L2,-5" stroke="#FF4D4D" stroke-width="2" stroke-linecap="round" />
+    <path d="M-2,-5 L2,5 M-2,5 L2,-5" stroke="#FF6B6B" stroke-width="2" stroke-linecap="round" />
   </g>
   
   <!-- Company Text -->
   <text x="72" y="29" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#4A5568">PLATFORM</text>
-  <text x="140" y="29" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FF4D4D">X</text>
+  <text x="140" y="29" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#FF6B6B">X</text>
   
   <!-- Tagline -->
   <text x="90" y="40" font-family="Arial, sans-serif" font-size="8" fill="#718096" text-anchor="middle">BUILD • SCALE • THRIVE</text>
