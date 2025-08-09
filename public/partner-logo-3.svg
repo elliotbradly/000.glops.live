@@ -4,15 +4,15 @@
   
   <!-- Abstract Quantum Symbol -->
   <g transform="translate(50, 30)">
-    <circle cx="0" cy="0" r="15" fill="none" stroke="#7928CA" stroke-width="1.5" />
-    <circle cx="0" cy="0" r="10" fill="none" stroke="#7928CA" stroke-width="1.5" />
-    <circle cx="0" cy="0" r="5" fill="#7928CA" />
+    <circle cx="0" cy="0" r="15" fill="none" stroke="#FF8A65" stroke-width="1.5" />
+    <circle cx="0" cy="0" r="10" fill="none" stroke="#FF8A65" stroke-width="1.5" />
+    <circle cx="0" cy="0" r="5" fill="#FF8A65" />
     
     <!-- Orbits -->
-    <ellipse cx="0" cy="0" rx="18" ry="8" fill="none" stroke="#7928CA" stroke-width="1" transform="rotate(30)" />
-    <ellipse cx="0" cy="0" rx="18" ry="8" fill="none" stroke="#7928CA" stroke-width="1" transform="rotate(150)" />
+    <ellipse cx="0" cy="0" rx="18" ry="8" fill="none" stroke="#FF8A65" stroke-width="1" transform="rotate(30)" />
+    <ellipse cx="0" cy="0" rx="18" ry="8" fill="none" stroke="#FF8A65" stroke-width="1" transform="rotate(150)" />
   </g>
   
   <!-- Company Text -->
-  <text x="90" y="35" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#7928CA">QUANTUM</text>
+  <text x="90" y="35" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FF8A65">QUANTUM</text>
 </svg>

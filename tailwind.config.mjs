@@ -1,13 +1,14 @@
 /** @type {import('tailwindcss').Config} */
 export default {
   content: ['./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}'],
+  darkMode: 'class',
   theme: {
     extend: {
       colors: {
-        'payflo-purple': '#7928CA',
-        'payflo-blue': '#0070F3',
-        'payflo-pink': '#FF4D4D',
-        'payflo-gray': '#F4F7FA',
+        'payflo-peach-primary': '#FF8A65',
+        'payflo-peach-secondary': '#FFD1C1',
+        'payflo-peach-accent': '#FF6B6B',
+        'payflo-peach-light': '#FFF5F2',
         'payflo-dark': '#111111',
       },
       fontFamily: {
